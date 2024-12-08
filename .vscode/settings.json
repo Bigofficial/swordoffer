@@ -5,6 +5,9 @@
         "__tree": "cpp",
         "deque": "cpp",
         "iterator": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "queue": "cpp",
+        "unordered_set": "cpp",
+        "string": "cpp"
     }
 }

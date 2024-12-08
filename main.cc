@@ -1,9 +1,7 @@
-#include "jzlist.h"
-#include "tree.h"
-#include "stackqueue.h"
-#include "search.h"
+
+#include "simulate.h"
+#include "other.h"
 int main(){
-    vector<int> num = {1,0,1,1,1};
-    string a = "aa";
-    findNthDigit(11);
+    vector<int> vec = {1,2,2,3};
+    reOrderArrayTwo(vec);
 }
